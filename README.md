@@ -4,4 +4,4 @@ Nama: Rasida Fadila
 
 NIM: SI22250018
 
-Jurusan: Sistem Informasi 
+Prodi : Sistem Informasi 
